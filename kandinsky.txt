@@ -29,3 +29,4 @@ en mi prisión.
 -  pasar el riff de guitarra a sintetizador
 - se me ocurrió poner el coro al principio
 - la línea de bajo estorba la voz?
+- aprovechar la subestructura del verso de Guillermo (puede ser un hook?)
